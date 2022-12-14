@@ -1,8 +1,7 @@
 # Tugas Pertemuan 12
 
 - Daftar Isi
-- soal ###SOAL
-- 
+  # SOAL
 
 ### SOAL
 
