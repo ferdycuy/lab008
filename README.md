@@ -122,8 +122,7 @@ while True:
 ![flowchartlab8](https://user-images.githubusercontent.com/115714443/207566908-6a0ad1b5-db40-4857-8a19-961d1d9adb95.png)
 
 ### Diagram
-
-[diagram.odt](https://github.com/ferdycuy/lab008/files/10226886/diagram.odt)
+![Screenshot (83)](https://user-images.githubusercontent.com/115714443/207572465-99e05c56-112f-410e-8b45-1bdc3cabec97.png)
 
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/115714443/207567320-606c1357-b172-4673-8bf7-30596e873917.png)
