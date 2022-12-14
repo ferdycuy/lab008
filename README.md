@@ -1,5 +1,9 @@
 # Tugas Pertemuan 12
 
+- Daftar Isi
+- soal #SOAL
+- 
+
 ### SOAL
 
 - Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
