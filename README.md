@@ -1,8 +1,5 @@
 # Tugas Pertemuan 12
 
-- Daftar Isi
-  # SOAL
-
 ### SOAL
 
 - Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
@@ -123,6 +120,11 @@ while True:
 ### Flowchart
 
 ![flowchartlab8](https://user-images.githubusercontent.com/115714443/207566908-6a0ad1b5-db40-4857-8a19-961d1d9adb95.png)
+
+### Diagram
+
+[diagram.odt](https://github.com/ferdycuy/lab008/files/10226886/diagram.odt)
+
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/115714443/207567320-606c1357-b172-4673-8bf7-30596e873917.png)
 \
