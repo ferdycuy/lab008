@@ -1,5 +1,8 @@
 # Tugas Pertemuan 12
 
+Nama : Ferdyana Eka Prasetya
+Nim  : 312210121
+kelas: TI.22.a.1
 ### SOAL
 
 - Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
